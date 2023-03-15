@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of Константин Мещеряков from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Singularity HUB" title="Singularity HUB" type="rss" xmlUrl="http://singularityhub.com/feed/" htmlUrl="http://singularityhub.com/"/>
+    <outline text="Wroclaw" title="Wroclaw">
+      <outline text="Najnowsze wiadomości dla mieszkańców Wrocławia" title="Najnowsze wiadomości dla mieszkańców Wrocławia" type="rss" xmlUrl="https://www.wroclaw.pl/dla-mieszkanca/rss/" htmlUrl="https://www.wroclaw.pl/dla-mieszkanca/"/>
+      <outline text="Kocham Wrocław" title="Kocham Wrocław" type="rss" xmlUrl="https://kochamwroclaw.pl/feed/" htmlUrl="https://kochamwroclaw.pl/"/>
+      <outline text="Urząd Miejski we Wrocławiu – załatwianie spraw" title="Urząd Miejski we Wrocławiu – załatwianie spraw" type="rss" xmlUrl="https://www.wroclaw.pl/urzad/rss/" htmlUrl="https://www.wroclaw.pl/urzad/"/>
+    </outline>
+    <outline text="SA" title="SA">
+      <outline text="AWS Official Blog" title="AWS Official Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/aws/feed/" htmlUrl="https://aws.amazon.com/blogs/aws/"/>
+      <outline text="AWS" title="AWS" type="rss" xmlUrl="https://dev.to/feed/aws" htmlUrl="https://dev.to/aws"/>
+      <outline text="Martin Fowler" title="Martin Fowler" type="rss" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="http://martinfowler.com/"/>
+    </outline>
+    <outline text="Embedded" title="Embedded">
+      <outline text="Stacey on IoT | Internet of Things news and analysis" title="Stacey on IoT | Internet of Things news and analysis" type="rss" xmlUrl="https://staceyoniot.com/feed/" htmlUrl="https://staceyoniot.com/"/>
+      <outline text="Interrupt" title="Interrupt" type="rss" xmlUrl="https://interrupt.memfault.com/feed.xml" htmlUrl="https://interrupt.memfault.com/"/>
+      <outline text="Embedded Artistry" title="Embedded Artistry" type="rss" xmlUrl="https://embeddedartistry.com/feed/" htmlUrl="https://embeddedartistry.com/"/>
+    </outline>
+    <outline text="ML" title="ML">
+      <outline text="Blog - Stability.Ai" title="Blog - Stability.Ai" type="rss" xmlUrl="https://stability.ai/blog?format=rss" htmlUrl="https://stability.ai/blog/"/>
+      <outline text="DeepMind Blog" title="DeepMind Blog" type="rss" xmlUrl="https://deepmind.com/blog/rss.xml" htmlUrl="https://www.deepmind.com/"/>
+      <outline text="AI - Machine Learning Blog articles" title="AI - Machine Learning Blog articles" type="rss" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=MachineLearningBlog" htmlUrl="https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/bg-p/MachineLearningBlog"/>
+      <outline text="neptune.ml" title="neptune.ml" type="rss" xmlUrl="https://neptune.ai/feed" htmlUrl="https://neptune.ai/"/>
+      <outline text="Blog | Machine Learning | Carnegie Mellon University" title="Blog | Machine Learning | Carnegie Mellon University" type="rss" xmlUrl="https://blog.ml.cmu.edu/feed/" htmlUrl="https://blog.ml.cmu.edu/"/>
+      <outline text="Mapping Babel" title="Mapping Babel" type="rss" xmlUrl="https://jack-clark.net/feed/" htmlUrl="https://jack-clark.net/"/>
+      <outline text="tinyML" title="tinyML" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9iWqvsWjhowkHWVJquHwkg" htmlUrl="https://www.youtube.com/channel/UC9iWqvsWjhowkHWVJquHwkg"/>
+      <outline text="AWS Machine Learning Blog" title="AWS Machine Learning Blog" type="rss" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed" htmlUrl="https://aws.amazon.com/blogs/machine-learning/"/>
+      <outline text="neurohive.io" title="neurohive.io" type="rss" xmlUrl="https://neurohive.io/ru/feed/" htmlUrl="https://neurohive.io/"/>
+      <outline text="Artificial Intelligence News -- ScienceDaily" title="Artificial Intelligence News -- ScienceDaily" type="rss" xmlUrl="http://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="http://www.sciencedaily.com/news/computers_math/artificial_intelligence/"/>
+      <outline text="Andrej Karpathy blog" title="Andrej Karpathy blog" type="rss" xmlUrl="http://karpathy.github.io/feed.xml" htmlUrl="http://karpathy.github.io/"/>
+      <outline text="Google Research Blog" title="Google Research Blog" type="rss" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" htmlUrl="http://googleresearch.blogspot.com/"/>
+      <outline text="The Launchpad - Medium" title="The Launchpad - Medium" type="rss" xmlUrl="https://medium.com/feed/thelaunchpad" htmlUrl="https://medium.com/thelaunchpad?source=rss----80424623ea38---4"/>
+      <outline text="bigdatarepublic - Medium" title="bigdatarepublic - Medium" type="rss" xmlUrl="https://medium.com/feed/bigdatarepublic" htmlUrl="https://medium.com/bigdatarepublic?source=rss----f36cd3eb764c---4"/>
+      <outline text="OpenAI" title="OpenAI" type="rss" xmlUrl="https://openai.com/blog/rss/" htmlUrl="https://openai.com/"/>
+      <outline text="AltexSoftData Science – AltexSoft" title="AltexSoftData Science – AltexSoft" type="rss" xmlUrl="https://www.altexsoft.com/blog/datascience/feed/" htmlUrl="https://www.altexsoft.com/"/>
+      <outline text="Distill" title="Distill" type="rss" xmlUrl="http://distill.pub/rss.xml" htmlUrl="http://distill.pub/"/>
+      <outline text="Károly Zsolnai-Fehér" title="Károly Zsolnai-Fehér" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg" htmlUrl="http://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg"/>
+      <outline text="AI Summer" title="AI Summer" type="rss" xmlUrl="https://theaisummer.com/feed.xml" htmlUrl="https://theaisummer.com/"/>
+    </outline>
+    <outline text="ML-podcasts" title="ML-podcasts">
+      <outline text="This Week in Machine Learning &amp; AI" title="This Week in Machine Learning &amp; AI" type="rss" xmlUrl="https://twimlai.com/feed/" htmlUrl="https://twimlai.com/"/>
+      <outline text="Linear Digressions" title="Linear Digressions" type="rss" xmlUrl="http://lineardigressions.com/episodes?format=rss" htmlUrl="http://lineardigressions.com/"/>
+      <outline text="Data Skeptic" title="Data Skeptic" type="rss" xmlUrl="http://dataskeptic.com/feed.rss" htmlUrl="http://dataskeptic.com/"/>
+      <outline text="AI Talk" title="AI Talk" type="rss" xmlUrl="https://feed.podbean.com/aitalk/feed.xml" htmlUrl="https://aitalk.podbean.com/"/>
+    </outline>
+    <outline text="Linux" title="Linux">
+      <outline text="OpenNews.opennet.ru: Общая лента новостей" title="OpenNews.opennet.ru: Общая лента новостей" type="rss" xmlUrl="http://www.opennet.ru/opennews/opennews_all.rss" htmlUrl="http://www.opennet.ru/opennews/"/>
+      <outline text="Posts on Hatred's Log Place" title="Posts on Hatred's Log Place" type="rss" xmlUrl="https://htrd.su/post/index.xml" htmlUrl="https://htrd.su/post/"/>
+      <outline text="Linux.org.ru" title="Linux.org.ru" type="rss" xmlUrl="http://feeds.feedburner.com/org/LOR" htmlUrl="http://www.linux.org.ru/"/>
+      <outline text="muhas — Заметки аскетичного гика" title="muhas — Заметки аскетичного гика" type="rss" xmlUrl="http://feeds.feedburner.com/muhas" htmlUrl="http://muhas.ru/"/>
+      <outline text="News archlinux.org.ru" title="News archlinux.org.ru" type="rss" xmlUrl="http://archlinux.org.ru/news/feed/" htmlUrl="http://archlinux.org.ru/news/"/>
+      <outline text="Записки дебианщика" title="Записки дебианщика" type="rss" xmlUrl="http://mydebianblog.blogspot.com/feeds/posts/default" htmlUrl="http://mydebianblog.blogspot.com/"/>
+    </outline>
+    <outline text="Комиксы" title="Комиксы">
+      <outline text="Корзинки из кишок" title="Корзинки из кишок" type="rss" xmlUrl="http://acomics.ru/~baskets-of-guts/rss" htmlUrl="http://acomics.ru/~baskets-of-guts"/>
+      <outline text="Blue Milk Special" title="Blue Milk Special" type="rss" xmlUrl="http://www.bluemilkspecial.com/?feed=rss2" htmlUrl="http://www.bluemilkspecial.com/"/>
+      <outline text="Goblins" title="Goblins" type="rss" xmlUrl="https://goblinscomic.com/feed/" htmlUrl="https://goblinscomic.com/"/>
+      <outline text="Gunnerkrigg Court" title="Gunnerkrigg Court" type="rss" xmlUrl="https://www.gunnerkrigg.com/rss.xml" htmlUrl="http://www.gunnerkrigg.com/"/>
+      <outline text="anti-HEROES Comic Feed" title="anti-HEROES Comic Feed" type="rss" xmlUrl="http://antiheroescomic.com/feed/comic" htmlUrl="http://antiheroescomic.com/comic"/>
+      <outline text="xkcd.com" title="xkcd.com" type="rss" xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+      <outline text="Order of the Stick" title="Order of the Stick" type="rss" xmlUrl="http://www.giantitp.com/comics/oots.rss" htmlUrl="http://www.giantitp.com/Comics.html"/>
+      <outline text="PHD Comics" title="PHD Comics" type="rss" xmlUrl="http://www.phdcomics.com/gradfeed.php" htmlUrl="http://www.phdcomics.com/"/>
+      <outline text="xkcd по-русски" title="xkcd по-русски" type="rss" xmlUrl="http://feeds.feedburner.com/xkcdru" htmlUrl="http://xkcd.ru/"/>
+    </outline>
+    <outline text="Development" title="Development">
+      <outline text="  Bartosz Milewski's Programming Cafe" title="  Bartosz Milewski's Programming Cafe" type="rss" xmlUrl="http://bartoszmilewski.wordpress.com/feed/" htmlUrl="http://bartoszmilewski.com/"/>
+      <outline text="Standard C++ | News" title="Standard C++ | News" type="rss" xmlUrl="https://isocpp.org/blog/rss/category/news" htmlUrl="http://isocpp.org/blog"/>
+      <outline text="IT Hare on Soft.ware" title="IT Hare on Soft.ware" type="rss" xmlUrl="http://ithare.com/feed/" htmlUrl="http://ithare.com/"/>
+      <outline text="Deepen C++" title="Deepen C++" type="rss" xmlUrl="http://deepencpp.blogspot.com/feeds/posts/default" htmlUrl="http://deepencpp.blogspot.com/"/>
+    </outline>
+    <outline text="Other" title="Other">
+      <outline text="A Life of Productivity" title="A Life of Productivity" type="rss" xmlUrl="http://feeds.feedburner.com/ALifeofProductivity" htmlUrl="http://alifeofproductivity.com/"/>
+      <outline text="Quanta Magazine" title="Quanta Magazine" type="rss" xmlUrl="https://api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org/"/>
+      <outline text="Beautiful Song Of The Week" title="Beautiful Song Of The Week" type="rss" xmlUrl="http://www.beautifulsongoftheweek.com/feed/" htmlUrl="http://www.beautifulsongoftheweek.com/"/>
+      <outline text="Uploads by ThePianoGuys" title="Uploads by ThePianoGuys" type="rss" xmlUrl="http://www.youtube.com/feeds/videos.xml?channel_id=UCmKurapML4BF9Bjtj4RbvXw" htmlUrl="http://www.youtube.com/channel/UCmKurapML4BF9Bjtj4RbvXw/videos"/>
+      <outline text="Kurz Gesagt - In a Nutshell" title="Kurz Gesagt - In a Nutshell" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q" htmlUrl="http://www.youtube.com/user/Kurzgesagt"/>
+      <outline text="[muspy] New Releases" title="[muspy] New Releases" type="rss" xmlUrl="https://muspy.com/feed?id=xvfspq54ugpfc1fchzok2glqdb8c3k" htmlUrl="https://muspy.com/"/>
+      <outline text="Музей фактов" title="Музей фактов" type="rss" xmlUrl="http://muzey-factov.ru/rss/" htmlUrl="http://muzey-factov.ru/"/>
+    </outline>
+  </body>
+</opml>

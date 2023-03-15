@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "ml-digest"
+version = "0.1.0"
+description = ""
+authors = ["Konstantin Meshcheryakov <kmeshcheryakov@klika-tech.com>"]
+readme = "README.md"
+packages = [{include = "ml_digest"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+feedparser = "^6.0.10"
+python-dateutil = "^2.8.2"
+aiohttp = "^3.8.4"
+tqdm = "^4.65.0"
+chardet = "^5.1.0"
+cchardet = "^2.1.7"
+openai = "^0.27.2"
+html2text = "^2020.1.16"
+
+
+[tool.poetry.group.dev.dependencies]
+isort = "^5.12.0"
+black = "^23.1.0"
+pdoc = "^13.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
