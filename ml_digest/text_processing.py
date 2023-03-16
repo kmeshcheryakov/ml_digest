@@ -21,21 +21,29 @@ async def summarize_article(article: Dict[str, str]) -> Dict[str, str]:
     conversation = [
         {
             "role": "system",
-            "content": "You are a helpful assistant. Summarize the following article concisely but with enough information for creating a digest later. Also, identify the main topic of the article:",
+            "content": "You are a helpful assistant. Summarize the following article concisely but with enough information for creating a digest later."
+            "Also, identify the main topics of the article. Please, put the topics comma separated on a new line, like in the following example:"
+            "The article reports a breakthrough in neuroscience, as an international team has released the complete brain connectivity map of a young fruit fly,"
+            "which contains 3,016 neurons and 548,000 synapses, making it the most complex whole-brain wiring diagram to date. This map, also known as a connectome, could help reveal secrets for developing better AI. \n"
+            "Topics: neuroscience, brain map, insect, fruit fly, connectome, synapses, complex wiring diagram, AI.",
         },
         {
             "role": "user",
-            "content": f"Title: {article['title']}.\nDescription: {article['description']}.",
+            "content": f"Title: {article['title']}.\nDescription: {' '.join(article['description'].split(' ')[:1500])}.",
         },
     ]
 
-    response = openai.ChatCompletion.create(
+    response = await openai.ChatCompletion.acreate(
         model="gpt-3.5-turbo",
         messages=conversation,
     )
 
     response_text = response["choices"][0]["message"]["content"]
-    summary, topic = response_text.split("\n", 1)
+    try:
+        summary, topic = response_text.split("\n", 1)
+    except ValueError:
+        summary = response_text
+        topic = ""
     return {"summary": summary, "topic": topic.strip()}
 
 
